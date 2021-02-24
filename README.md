@@ -1,3 +1,5 @@
+https://medium.com/@michaelsugimura/segmenting-medical-images-7b1f5e114f79
+
 # Image Segmentation 2018 DSB
 
 ## Background
